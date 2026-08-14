@@ -49,7 +49,7 @@ This project presents an interactive Fitness Analytics Dashboard built in Micros
 
 ## Interactive Tooltip Preview
 
-![Interactive Tooltip](./Tooltip_View.png)
+![Interactive Tooltip](Tooltip_View.png)
 
 ## Author
 
