@@ -55,4 +55,4 @@ This project presents an interactive Fitness Analytics Dashboard built in Micros
 
 **Prachi Vaishkiyar**
 
-📊 Aspiring Data Analyst | Excel | Power Query | Power BI | SQL| Currently Learning Data Analytics
+📊 Aspiring Data Analyst | Excel | Power Query | Power BI | SQL | Currently Learning Data Analytics
