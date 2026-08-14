@@ -1,4 +1,4 @@
-🏃 Fitness Analytics Dashboard
+# 🏃 Fitness Analytics Dashboard
 
 ## Project Overview
 
@@ -45,11 +45,11 @@ This project presents an interactive Fitness Analytics Dashboard built in Micros
 
 ## Project Preview
 
-![Fitness Analytics Dashboard](Images/Fitness_Dashboard.png)
+![Fitness Analytics Dashboard](Fitness_Dashboard.png)
 
 ## Interactive Tooltip Preview
 
-![Interactive Tooltip](Images/Tooltip_View.png)
+![Interactive Tooltip](Tooltip_View.png)
 
 ## Author
 
